@@ -1,13 +1,12 @@
 import './App.css';
-import FetchData from './Ornekler/FetchData';
-
+import InputUlli from './Ornekler/InputUlli';
 
 
 function App() {
 
   return (
     <div className="App">
-      <FetchData />
+      <InputUlli />
     </div>
   );
 }
