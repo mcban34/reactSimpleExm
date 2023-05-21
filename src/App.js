@@ -1,14 +1,12 @@
 import './App.css';
-import ProductMap from './Ornekler/ProductMap';
+import ContainerRowCol from './Ornekler/ContainerRowCol';
 
 
 function App() {
 
   return (
     <div className="App">
-
-        <ProductMap />    
-
+      <ContainerRowCol/>
     </div>
   );
 }
