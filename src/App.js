@@ -1,13 +1,14 @@
 import './App.css';
-import DarkLight from './Ornekler/DarkLight';
-
+import ProductMap from './Ornekler/ProductMap';
 
 
 function App() {
 
   return (
     <div className="App">
-      <DarkLight />
+
+        <ProductMap />    
+
     </div>
   );
 }
