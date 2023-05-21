@@ -1,12 +1,13 @@
 import './App.css';
-import InputUlli from './Ornekler/InputUlli';
+import DarkLight from './Ornekler/DarkLight';
+
 
 
 function App() {
 
   return (
     <div className="App">
-      <InputUlli />
+      <DarkLight />
     </div>
   );
 }
