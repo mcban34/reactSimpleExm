@@ -1,12 +1,11 @@
 import './App.css';
-import ContainerRowCol from './Ornekler/ContainerRowCol';
+import Todobasic from './Components/Todobasic';
 
 
-function App() {
-
+function App() {  
   return (
     <div className="App">
-      <ContainerRowCol/>
+      <Todobasic />
     </div>
   );
 }
