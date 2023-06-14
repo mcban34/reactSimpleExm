@@ -1,11 +1,11 @@
-import './App.css';
-import Todobasic from './Components/Todobasic';
+import React from 'react';
+import Products from './Components/Product/Products';
 
 
-function App() {  
+function App() {
   return (
     <div className="App">
-      <Todobasic />
+      <Products />
     </div>
   );
 }
